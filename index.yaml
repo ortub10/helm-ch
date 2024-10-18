@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-18T12:20:09.191175739Z"
+    description: A Helm chart for Kubernetes
+    digest: 014f18ee09f145378f874acabf1429493f138e860ef0f1c58c15554cd7419792
+    name: my-chart
+    type: application
+    urls:
+    - https://ortub10.github.io/helm-ch/my-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-18T12:20:09.190685528Z"
